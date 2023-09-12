@@ -1,16 +1,7 @@
-# calculator
+# Learning-Japanese-App
+Flutter App that teach you japanese (Numbers, Family Members, Colors, and some phrases)
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Mohamed-Hatem-1/Learning-Japanese-App/assets/123755796/e517f185-f970-4fc1-aef2-efad53b664a0
+</div>
