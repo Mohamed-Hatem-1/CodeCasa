@@ -1,5 +1,4 @@
-# Learning-Japanese-App
-Flutter App that teach you japanese (Numbers, Family Members, Colors, and some phrases)
+# Calculator App
 
 <div align="center">
 
